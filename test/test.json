@@ -1,0 +1,18 @@
+{
+  "user_id": -1,
+  "api_user_agent": "Apifox/1.0.0 (https://apifox.com)",
+  "api_body": "{}",
+  "api_query": "{}",
+  "api_real_ip": "undefined",
+  "api_forwarded_for": "undefined",
+  "api_referer": "undefined",
+  "api_path": "undefined",
+  "api_method": "POST",
+  "api_host": "127.0.0.1:4300",
+  "api_hostname": "127.0.0.1",
+  "api_status_code": 401,
+  "api_error": "登录信息过期！",
+  "api_err_msg": "登录信息过期！",
+  "api_duration": -1,
+  "api_err_code": 401
+}
